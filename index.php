@@ -24,7 +24,7 @@
 
         echo $result;
 
-        //Output : Kushal Karki , You are fired from the Rojan Krina Passal !
+        //Output : Kusal Karki , You are fired from the Rojan Krina Passal !
 
 
     ?>
